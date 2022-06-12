@@ -1,0 +1,90 @@
+C:\Users\Student\source\repos\KokotLab3Taib\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\Student\source\repos\KokotLab3Taib\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+C:\Users\Student\source\repos\KokotLab3Taib\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+C:\Users\Student\source\repos\KokotLab3Taib\Models\bin\Debug\net5.0\Models.dll
+C:\Users\Student\source\repos\KokotLab3Taib\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Users\Student\source\repos\KokotLab3Taib\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.dll
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.deps.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\ref\Models.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\ref\Models.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.deps.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\ref\Models.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\bin\Debug\net5.0\Models.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\ref\Models.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\bin\Debug\net5.0\Models.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
+E:\sem6\taibAngularApp\MVC_kokot\Models\bin\Debug\net5.0\Models.deps.json
+E:\sem6\taibAngularApp\MVC_kokot\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+E:\sem6\taibAngularApp\MVC_kokot\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+E:\sem6\taibAngularApp\MVC_kokot\Models\bin\Debug\net5.0\Models.dll
+E:\sem6\taibAngularApp\MVC_kokot\Models\bin\Debug\net5.0\ref\Models.dll
+E:\sem6\taibAngularApp\MVC_kokot\Models\bin\Debug\net5.0\Models.pdb
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.dll
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\ref\Models.dll
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.pdb
+E:\sem6\taibAngularApp\MVC_kokot\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\bin\Debug\net5.0\Models.runtimeconfig.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\bin\Debug\net5.0\Models.runtimeconfig.dev.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\bin\Debug\net5.0\Models.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\Models\obj\Debug\net5.0\Models.genruntimeconfig.cache

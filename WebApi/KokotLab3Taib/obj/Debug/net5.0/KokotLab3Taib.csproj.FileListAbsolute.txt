@@ -1,0 +1,502 @@
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\appsettings.json
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.exe
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.deps.json
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.json
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.dev.json
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\ref\KokotLab3Taib.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfo.cs
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.Manifest.cache
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.xml
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\scopedcss\bundle\KokotLab3Taib.styles.css
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.RazorTargetAssemblyInfo.cache
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CopyComplete
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\ref\KokotLab3Taib.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.genruntimeconfig.cache
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Models.dll
+C:\Users\Student\source\repos\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Models.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\appsettings.Development.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\appsettings.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.exe
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.deps.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.dev.json
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\ref\KokotLab3Taib.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Models.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Services.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Models.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Services.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.AssemblyReference.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfoInputs.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfo.cs
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CoreCompileInputs.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cs
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.Manifest.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.xml
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\scopedcss\bundle\KokotLab3Taib.styles.css
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.RazorTargetAssemblyInfo.cache
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CopyComplete
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\ref\KokotLab3Taib.dll
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.pdb
+E:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.genruntimeconfig.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\appsettings.Development.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\appsettings.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.exe
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.deps.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.dev.json
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\ref\KokotLab3Taib.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Models.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Services.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Models.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\bin\Debug\net5.0\Services.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.AssemblyReference.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.GeneratedMSBuildEditorConfig.editorconfig
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfoInputs.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfo.cs
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CoreCompileInputs.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cs
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.Manifest.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.xml
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\scopedcss\bundle\KokotLab3Taib.styles.css
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.RazorTargetAssemblyInfo.cache
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CopyComplete
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\ref\KokotLab3Taib.dll
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.pdb
+F:\sem6\www\KokotLab3Taib (2)\KokotLab3Taib\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.genruntimeconfig.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\appsettings.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.exe
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.deps.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.dev.json
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\ref\KokotLab3Taib.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Models.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Services.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Models.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Services.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfo.cs
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.Manifest.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.xml
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\scopedcss\bundle\KokotLab3Taib.styles.css
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CopyComplete
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\ref\KokotLab3Taib.dll
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.pdb
+C:\Users\Student\Desktop\taibKokot\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.genruntimeconfig.cache
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\appsettings.Development.json
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\appsettings.json
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.exe
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.deps.json
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.json
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.dev.json
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\ref\KokotLab3Taib.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Models.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Services.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Models.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Services.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.AssemblyReference.cache
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfoInputs.cache
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfo.cs
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CoreCompileInputs.cache
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cs
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cache
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.Manifest.cache
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.xml
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\scopedcss\bundle\KokotLab3Taib.styles.css
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.RazorTargetAssemblyInfo.cache
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CopyComplete
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\ref\KokotLab3Taib.dll
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.pdb
+E:\sem6\taibAngularApp\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.genruntimeconfig.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\appsettings.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.exe
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.deps.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.runtimeconfig.dev.json
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\ref\KokotLab3Taib.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\KokotLab3Taib.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Models.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Services.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Models.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\bin\Debug\net5.0\Services.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.AssemblyReference.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfoInputs.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.AssemblyInfo.cs
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.Manifest.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\staticwebassets\KokotLab3Taib.StaticWebAssets.xml
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\scopedcss\bundle\KokotLab3Taib.styles.css
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.RazorTargetAssemblyInfo.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\ref\KokotLab3Taib.dll
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.pdb
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.genruntimeconfig.cache
+C:\Users\Rafał\Desktop\TaibTryHard\MVC_kokot\KokotLab3Taib\obj\Debug\net5.0\KokotLab3Taib.csproj.CopyComplete
