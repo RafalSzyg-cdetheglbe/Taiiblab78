@@ -1,0 +1,9 @@
+<form #productForm="ngForm" (ngSubmit)="OnSubmit()">
+<label for="name">Nazwa</label>
+<input type="text" name="name" id="name" [(ngModel)]="product.name"/>
+<label for="description">Opis</label>
+<input type="text" name="description" id="description" [(ngModel)]="product.description"/>
+<label for="price">Cena</label>
+<input type="number" name="price" id="price" [(ngModel)]="product.price"/>
+<button type="submit">Zapisz</button>
+</form>

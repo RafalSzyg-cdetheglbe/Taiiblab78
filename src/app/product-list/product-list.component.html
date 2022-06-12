@@ -1,0 +1,21 @@
+<div *ngFor="let p of produkty">
+
+    <app-products [data]="p" (onAddClick)="BtnAddClick($event)"></app-products>
+  </div>
+  <div>
+
+<label for="page">Strona:</label>
+    <input type="number" name="page" [(ngModel)]="page"/>
+    <label for="rowsPerPage">Strona:</label>
+<input type="number" name="rowsPerPage" [(ngModel)]="rowsPerPage"/>
+
+<div>
+    <button (click)="refresh()">Odswiez</button>
+</div>
+
+    <app-koszyk [koszyk]="koszyk" (onMoreClick)="MoreClick($event)"
+                (onLessClick)="LessClick($event)"
+                (onDeleteClick)="DeleteClick($event)"
+                (onClickClear)="ClearClick()">
+    </app-koszyk>
+  </div>
